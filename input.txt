@@ -1,0 +1,8 @@
+Hello team,
+
+Please reach out to jane.doe@example.com for project updates.
+For billing, contact accounts@billing.example.org.
+You can also CC support@my-app.io for any questions.
+
+Thanks!
+
